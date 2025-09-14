@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Mimir Project Blog
+email: christianyacapin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  A minimal blog for the Mimir Project Development Cycle over the 2025 academic year. 
+twitter_username: N/A
+github_username: christianly326
 minimal_mistakes_skin: default
 search: true
+
+url: "https://christianly326.github.io"
+baseurl: "/MimirBlog"
 
 # Build settings
 markdown: kramdown
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mimir Team
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Mimir Team"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
