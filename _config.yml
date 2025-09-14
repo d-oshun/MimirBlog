@@ -16,10 +16,11 @@
 title: Mimir Project Blog
 email: christianyacapin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A minimal blog for the Mimir Project Development Cycle over the 2025 academic year. 
-twitter_username: N/A
+  A minimal blog for the Mimir Project Development Cycle over the 2025 academic year.
+twitter_username: 
 github_username: christianly326
 minimal_mistakes_skin: default
+timezone: Europe/Dublin
 search: true
 
 url: "https://christianly326.github.io"
@@ -59,9 +60,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mimir Team
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mimir Team"
+  name: "Mimir Team"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Mimir Team"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
